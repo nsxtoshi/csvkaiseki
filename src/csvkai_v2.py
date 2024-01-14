@@ -10,7 +10,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 # Streamlitアプリの開始
-st.title("CSVファイル解析アプリ")
+st.title("CSVファイル解析アプリｖ２")
 
 # CSVファイルのアップロード
 uploaded_file = st.file_uploader("CSVファイルをアップロードしてください", type=["csv"])
