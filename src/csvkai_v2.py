@@ -43,4 +43,4 @@ if st.button("解析"):
         st.dataframe(top_words_df)
 
     else:
-        st.warning("CSVファイルがアップロードされていません。")
+        st.warning("CSVファイルがアップロードされていません。やりなおしてください")
